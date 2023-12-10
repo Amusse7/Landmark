@@ -11,10 +11,10 @@ This Android application allows visitors to locate various landmarks in the city
 
 ## Screenshots
 
-![Landmark Types List](/screenshots/landmark_types_list.png)
+![Landmark Types List](/screenshots/Places.png)
 *Figure 1: Landmark Types List*
 
-![Map with Landmark Marker](/screenshots/landmark_map.png)
+![Map with Landmark Marker](/screenshots/MapView.png)
 *Figure 2: Map with Landmark Marker*
 
 ## How to Use
@@ -40,7 +40,7 @@ Contributions are welcome! Feel free to fork the repository and create pull requ
 
 ## Credits
 
-This app is developed as an assignment for a mobile development course at [Your University/Institution].
+This app is developed as an assignment for a mobile development course at Centennial College.
 
 ## License
 
